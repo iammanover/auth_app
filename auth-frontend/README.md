@@ -1,7 +1,8 @@
 # To run the application use following command
 
 first do run this command :- npm install
-npm run dev
+then npm run dev
+
 
 # Folder Structure
 
